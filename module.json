@@ -2,7 +2,7 @@
   "id": "smart-search",
   "name": "联网搜索",
   "version": "1.0.2",
-  "description": "需要时自己查资料、读网页，回答附上来源；默认沿用 DSH 搜索",
+  "description": "需要时自己查资料、读网页，按需提供原文链接；默认沿用 DSH 搜索",
   "category": "tool",
   "tags": [
     "搜索",
